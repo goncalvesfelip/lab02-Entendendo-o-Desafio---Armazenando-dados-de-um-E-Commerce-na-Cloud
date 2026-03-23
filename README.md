@@ -70,9 +70,6 @@ Fáceis de manter
 
 Além disso, ficou evidente que a computação em nuvem é essencial para aplicações modernas, especialmente em sistemas como e-commerce, que demandam alta disponibilidade e desempenho.
 
-📸 Evidências
-
-Adicione aqui prints do:
 
 Container rodando
 Aplicação no navegador
